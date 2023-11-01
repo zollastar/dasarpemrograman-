@@ -24,9 +24,13 @@ https://github.com/zollastar/dasarpemrograman-/blob/main/Convert%20Suhu_J0403231
 https://github.com/zollastar/dasarpemrograman-/blob/main/Data%20Structures%20in%20Python_J0403231156_Zolla%20Perdana%20Putra%20Harahap.ipynb
 
 ## Modular
-### Calculator
-https://github.com/zollastar/dasarpemrograman-/blob/main/calculator.py
-### Math Operations
-https://github.com/zollastar/dasarpemrograman-/blob/main/math_operations.py
-### Exercise Automation
-https://github.com/zollastar/dasarpemrograman-/blob/main/exercise_automation.py
+#### Hello, World!
+[Exercise 1](https://github.com/zollastar/dasarpemrograman-/blob/main/Hello%20Word.py)
+
+#### Exercise Automation
+[Exercise 2](https://github.com/zollastar/dasarpemrograman-/blob/main/exercise_automation.py)
+
+#### Math Operations
+[Exercise 3 - Fungsi Kalkulator](https://github.com/zollastar/dasarpemrograman-/blob/main/math_operations.py)
+#### Calculator
+[Exercise 3 - Calculator](https://github.com/zollastar/dasarpemrograman-/blob/main/calculator.py)
