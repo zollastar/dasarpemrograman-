@@ -34,3 +34,6 @@ https://github.com/zollastar/dasarpemrograman-/blob/main/Data%20Structures%20in%
 [Exercise 3 - Fungsi Kalkulator](https://github.com/zollastar/dasarpemrograman-/blob/main/math_operations.py)
 #### Calculator
 [Exercise 3 - Calculator](https://github.com/zollastar/dasarpemrograman-/blob/main/calculator.py)
+
+### Streamlit Calculator
+[Link Streamlit Calculator](https://cqpflkq74tfawxg2ixzanv.streamlit.app/)
